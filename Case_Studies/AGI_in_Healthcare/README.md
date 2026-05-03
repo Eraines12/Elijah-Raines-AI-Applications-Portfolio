@@ -20,7 +20,7 @@ This project explores how Artificial General Intelligence (AGI) could transform 
 - Ethical responsibility in AI-driven decisions  
 
 ## 📄 Project Document
-- [View Full Case Study](./AGI_Healthcare.docx)
+- [View Full Case Study](AGI_in_Healthcare.docx)
 
 ---
 
