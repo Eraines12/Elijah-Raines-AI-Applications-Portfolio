@@ -20,7 +20,7 @@ This project analyzes how artificial intelligence is used in government systems,
 - Public trust in AI systems  
 
 ## 📄 Project Document
-- [View Full Case Study](./AI_in_Government_Public_Sector.docx)
+- [View Full Case Study](AI_in_Government_Public_Sector.docx)
 
 ---
 
