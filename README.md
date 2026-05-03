@@ -4,7 +4,7 @@
 
 ### 📁 Case Studies
 - [AGI in Healthcare](AGI_in_Healthcare)
-- [AI in Government & Public Sector](AI_Government)
+- [AI in Government & Public Sector](AI in Government & Public Sector) 
 - [AI in Finance – PayPal Fraud Detection](AI_Finance_PayPal/AI_Fraud_Detection)
 - [Ethical Impacts of Generative AI (ChatGPT)](Ethics_Generative_AI/ChatGPT_Ethics)
 
