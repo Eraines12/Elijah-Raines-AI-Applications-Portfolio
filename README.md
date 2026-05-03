@@ -3,7 +3,7 @@
 ## 📂 Repository Structure
 
 ### 📁 Case Studies
-- [AGI in Healthcare](./Case_Studies/AGI_Healthcare/AGI_Healthcare.docx)
+- [AGI in Healthcare](AGI_in_Healthcare)
 - [AI in Government & Public Sector](./Case_Studies/AI_Government/AI_Government.docx)
 - [AI in Finance – PayPal Fraud Detection](./Case_Studies/AI_Finance_PayPal/AI_Fraud_Detection.docx)
 - [Ethical Impacts of Generative AI (ChatGPT)](./Case_Studies/Ethics_Generative_AI/ChatGPT_Ethics.docx)
