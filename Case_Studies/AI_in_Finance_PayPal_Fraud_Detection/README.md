@@ -20,7 +20,7 @@ This project explores how PayPal uses machine learning to detect fraudulent tran
 - Difficulty explaining AI decisions  
 
 ## 📄 Project Document
-- [View Full Case Study](./AI_in_Finance_PayPal_Fraud_Detection.docx)
+- [View Full Case Study](AI_in_Finance_PayPal_Fraud_Detection.docx)
 
 ---
 
