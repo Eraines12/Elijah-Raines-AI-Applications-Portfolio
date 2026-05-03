@@ -4,22 +4,22 @@
 
 ### 📁 Case Studies
 - [AGI in Healthcare](AGI_in_Healthcare)
-- [AI in Government & Public Sector](./Case_Studies/AI_Government/AI_Government.docx)
-- [AI in Finance – PayPal Fraud Detection](./Case_Studies/AI_Finance_PayPal/AI_Fraud_Detection.docx)
-- [Ethical Impacts of Generative AI (ChatGPT)](./Case_Studies/Ethics_Generative_AI/ChatGPT_Ethics.docx)
+- [AI in Government & Public Sector](AI_Government)
+- [AI in Finance – PayPal Fraud Detection](AI_Finance_PayPal/AI_Fraud_Detection)
+- [Ethical Impacts of Generative AI (ChatGPT)](Ethics_Generative_AI/ChatGPT_Ethics)
 
 ---
 
 ### 📁 Class Notes
-- [AI Advancements & Trends](./Class_Notes/AI_Advancements.docx)
-- [Smart Cities & AI](./Class_Notes/Smart_Cities.docx)
-- [Media & Entertainment AI](./Class_Notes/Media_Entertainment_AI.docx)
+- [AI Advancements & Trends](AI_Advancements)
+- [Smart Cities & AI](Smart_Cities)
+- [Media & Entertainment AI](/Media_Entertainment_AI)
 
 ---
 
 ### 📁 Presentations
-- [AI Fraud Detection at PayPal (Slides)](./Presentations/PayPal_AI_Slides.pdf)
-- [AI Portfolio Presentation](./Presentations/Portfolio_Presentation.pdf)
+- [AI Fraud Detection at PayPal (Slides)](/PayPal_AI_Slides)
+- [AI Portfolio Presentation](Portfolio_Presentation)
 
 ---
 
