@@ -17,7 +17,7 @@ This presentation explains how PayPal uses machine learning to detect fraudulent
 ### 🔹 AI Applications Portfolio Presentation
 This presentation provides an overview of my AI portfolio, including key projects, skills, and real-world applications. It is designed to showcase my work to potential employers.
 
-📄 [View Presentation](Final_AI_Spacecraft_Presentation (2))
+📄 [View Presentation](Presentations/Final_AI_Spacecraft_Presentation(2).pdf)
 
 ---
 
